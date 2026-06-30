@@ -1,0 +1,16 @@
+{
+  "name": "royal-task-manager",
+  "version": "1.0.0",
+  "description": "Premium Vanilla JavaScript Task Manager Dashboard",
+  "scripts": {
+    "serve": "npx -y http-server -p 8085"
+  },
+  "keywords": [
+    "vanilla-js",
+    "dashboard",
+    "glassmorphism",
+    "task-manager"
+  ],
+  "author": "Royal Task Manager Contributors",
+  "license": "MIT"
+}
